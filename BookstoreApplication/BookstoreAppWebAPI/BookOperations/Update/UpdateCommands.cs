@@ -1,25 +1,25 @@
-﻿using BookstoreAppWebAPI.DbOperations;
-using BookstoreAppWebAPI.Entities;
-
-using System;
+﻿using System;
 using System.Linq;
+using BookstoreAppWebAPI.BookOperations.Read;
+using BookstoreAppWebAPI.DbOperations;
+using BookstoreAppWebAPI.Entities;
 
 namespace BookstoreAppWebAPI.BookOperations.Update
 {
     public class UpdateCommands
     {
-        private BookStoreDbContext _context;
-
-        public UpdateBookViewModel Model { get; set; }
+        private readonly BookStoreDbContext _context;
 
         public UpdateCommands(BookStoreDbContext context)
         {
             _context = context;
         }
 
+        public UpdateBookViewModel Model { get; set; }
+
         public void UpdateBook()
         {
-            Book searchedBook = _context.Books.SingleOrDefault(x => x.Id == Model.Id);
+            var searchedBook = _context.Books.SingleOrDefault(x => x.Id == Model.Id);
 
             if (searchedBook == null) throw new InvalidOperationException("Böyle bir kitap yok");
 
@@ -33,14 +33,17 @@ namespace BookstoreAppWebAPI.BookOperations.Update
 
         }
 
-        public class UpdateBookViewModel
-        {
-            public int Id { get; set; }
-            public string Title { get; set; }
-            public string Description { get; set; }
-            public int GenreId { get; set; }
-            public int WriterId { get; set; }
-            public DateTime PublishDate { get; set; }
-        }
+
+
+    }
+
+    public class UpdateBookViewModel
+    {
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public int GenreId { get; set; }
+        public int WriterId { get; set; }
+        public DateTime PublishDate { get; set; }
     }
 }

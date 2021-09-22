@@ -1,16 +1,15 @@
-﻿
-
-using Microsoft.AspNetCore.Mvc;
-
-using System;
+﻿using System;
 using System.Linq;
+using AutoMapper;
 using BookstoreAppWebAPI.BookOperations.Create;
 using BookstoreAppWebAPI.BookOperations.Delete;
 using BookstoreAppWebAPI.BookOperations.Read;
 using BookstoreAppWebAPI.BookOperations.Update;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
-
+using FluentValidation;
+using FluentValidation.Results;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BookstoreAppWebAPI.Controllers
 {
@@ -18,33 +17,39 @@ namespace BookstoreAppWebAPI.Controllers
     [ApiController]
     public class BooksController : ControllerBase
     {
-        private BookStoreDbContext _context;
-        public BooksController(BookStoreDbContext context)
+        private readonly BookStoreDbContext _context;
+        private readonly IMapper _mapper;
+
+        public BooksController(BookStoreDbContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         [Route("getall")]
         [HttpGet]
         public IActionResult GetAll()
         {
-            ReadCommands commands = new ReadCommands(_context);
+            var commands = new ReadCommands(_context);
 
-            return Ok(commands.GetBooks());
+            return Ok(commands.GetBooksWithDetails());
         }
-        
+
 
         [Route("getById/{id}")]
         [HttpGet]
-        public IActionResult GetById([FromRoute]int id)
+        public IActionResult GetById([FromRoute] int id)
         {
-            ReadCommands commands = new ReadCommands(_context);
-            commands.Model = new ReadBookViewModel()
+            var commands = new ReadCommands(_context);
+            commands.Model = new ReadBookViewModel
             {
                 Id = id
             };
 
-            return Ok(commands.GetBookByBookId());
+            ReadBookValidator validator = new ReadBookValidator();
+            validator.ValidateAndThrow(commands.Model);
+
+            return Ok(commands.GetBookWithDetailsByBookId());
         }
 
         [Route("add")]
@@ -53,8 +58,11 @@ namespace BookstoreAppWebAPI.Controllers
         {
             try
             {
-                CreateCommands commands = new CreateCommands(_context);
+                CreateCommands commands = new CreateCommands(_context, _mapper);
                 commands.Model = newBook;
+
+                CreateBookValidator validator = new CreateBookValidator();
+                validator.ValidateAndThrow(commands.Model);
 
                 commands.AddBook();
             }
@@ -64,19 +72,23 @@ namespace BookstoreAppWebAPI.Controllers
             }
 
             return Ok();
-
         }
 
         [Route("update")]
         [HttpPut]
-        public IActionResult Update([FromBody] UpdateCommands.UpdateBookViewModel viewModel)
+        public IActionResult Update([FromBody] UpdateBookViewModel viewModel)
         {
             try
             {
-                UpdateCommands commands = new UpdateCommands(_context);
+                var commands = new UpdateCommands(_context);
 
                 commands.Model = viewModel;
+
+                UpdateBookValidator validator = new UpdateBookValidator();
+                validator.ValidateAndThrow(commands.Model);
+
                 commands.UpdateBook();
+
             }
             catch (Exception ex)
             {
@@ -84,7 +96,7 @@ namespace BookstoreAppWebAPI.Controllers
             }
 
             return Ok();
-        }  
+        }
 
         [Route("delete")]
         [HttpDelete]
@@ -92,11 +104,14 @@ namespace BookstoreAppWebAPI.Controllers
         {
             try
             {
-                DeleteCommands commands = new DeleteCommands(_context);
-                commands.Model = new DeleteBookViewModel()
+                var commands = new DeleteCommands(_context);
+                commands.Model = new DeleteBookViewModel
                 {
                     Id = id
                 };
+
+                DeleteBookValidator validator = new DeleteBookValidator();
+                validator.ValidateAndThrow(commands.Model);
 
                 commands.DeleteBook();
             }
@@ -107,9 +122,5 @@ namespace BookstoreAppWebAPI.Controllers
 
             return Ok();
         }
-
-
     }
-
-
 }

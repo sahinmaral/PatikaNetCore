@@ -1,24 +1,23 @@
 ﻿using System;
 using System.Linq;
 using BookstoreAppWebAPI.DbOperations;
-using BookstoreAppWebAPI.Entities;
 
 namespace BookstoreAppWebAPI.BookOperations.Delete
 {
     public class DeleteCommands
     {
-        private BookStoreDbContext _context;
-
-        public DeleteBookViewModel Model { get; set; }
+        private readonly BookStoreDbContext _context;
 
         public DeleteCommands(BookStoreDbContext context)
         {
             _context = context;
         }
 
+        public DeleteBookViewModel Model { get; set; }
+
         public void DeleteBook()
         {
-            Book searchedBook = _context.Books.SingleOrDefault(x => x.Id == Model.Id);
+            var searchedBook = _context.Books.SingleOrDefault(x => x.Id == Model.Id);
 
             if (searchedBook == null) throw new InvalidOperationException("Böyle bir kitap yok");
 

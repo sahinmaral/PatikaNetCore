@@ -14,12 +14,9 @@ namespace BookstoreAppWebAPI
             using (var context = new BookStoreDbContext(
                 serviceProvider.GetRequiredService<DbContextOptions<BookStoreDbContext>>()))
             {
-                if (context.Books.Any())
-                {
-                    return;
-                }
+                if (context.Books.Any()) return;
 
-                context.Books.AddRange(new Book()
+                context.Books.AddRange(new Book
                     {
                         Title = "Lean Startup",
                         Description = "Güzel kitap",
@@ -27,7 +24,7 @@ namespace BookstoreAppWebAPI
                         WriterId = 1,
                         GenreId = 1
                     },
-                    new Book()
+                    new Book
                     {
                         Title = "Dune",
                         Description = "Güzel kitap",
@@ -35,7 +32,7 @@ namespace BookstoreAppWebAPI
                         WriterId = 2,
                         GenreId = 2
                     },
-                    new Book()
+                    new Book
                     {
                         Title = "Herland",
                         Description = "Güzel kitap",
@@ -45,17 +42,17 @@ namespace BookstoreAppWebAPI
                     });
 
                 context.Writers.AddRange(
-                    new Writer()
+                    new Writer
                     {
                         Id = 1,
                         Name = "Eric Ries"
                     },
-                    new Writer()
+                    new Writer
                     {
                         Id = 2,
                         Name = "Frank Herbert"
                     },
-                    new Writer()
+                    new Writer
                     {
                         Id = 3,
                         Name = "Charlotte Perkins Gilman"
@@ -63,12 +60,12 @@ namespace BookstoreAppWebAPI
                 );
 
                 context.Genres.AddRange(
-                    new Genre()
+                    new Genre
                     {
                         Id = 1,
                         Name = "Training Book"
                     },
-                    new Genre()
+                    new Genre
                     {
                         Id = 2,
                         Name = "Novel"
@@ -76,7 +73,6 @@ namespace BookstoreAppWebAPI
                 );
 
                 context.SaveChanges();
-
             }
         }
     }
