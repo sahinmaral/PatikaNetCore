@@ -1,5 +1,6 @@
 using System.Reflection;
 using BookstoreAppWebAPI.DbOperations;
+using BookstoreAppWebAPI.Middlewares;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -49,7 +50,11 @@ namespace BookstoreAppWebAPI
 
             app.UseAuthorization();
 
+            app.UseCustomException();
+
             app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
+
+            
         }
     }
 }

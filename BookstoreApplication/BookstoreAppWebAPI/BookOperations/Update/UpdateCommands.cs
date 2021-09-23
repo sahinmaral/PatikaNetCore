@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Linq;
-using BookstoreAppWebAPI.BookOperations.Read;
 using BookstoreAppWebAPI.DbOperations;
-using BookstoreAppWebAPI.Entities;
 
 namespace BookstoreAppWebAPI.BookOperations.Update
 {
