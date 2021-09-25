@@ -1,0 +1,238 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookstoreAppWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookstoreAppWebAPI.StaticWebAssets.xml
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookstoreAppWebAPI.styles.css
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.CopyComplete
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.pdb
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.exe
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.deps.json
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.pdb
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookstoreAppWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookstoreAppWebAPI.StaticWebAssets.xml
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookstoreAppWebAPI.styles.css
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.CopyComplete
+C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.genruntimeconfig.cache
