@@ -6,9 +6,9 @@ namespace BookstoreAppWebAPI.Operations.BookOperations.Delete
 {
     public class DeleteBookCommands
     {
-        private readonly BookStoreDbContext _context;
+        private readonly IBookStoreDbContext _context;
 
-        public DeleteBookCommands(BookStoreDbContext context)
+        public DeleteBookCommands(IBookStoreDbContext context)
         {
             _context = context;
         }

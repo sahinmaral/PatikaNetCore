@@ -1,5 +1,4 @@
-﻿using BookstoreAppWebAPI.BookOperations.Read;
-using FluentValidation;
+﻿using FluentValidation;
 
 namespace BookstoreAppWebAPI.Operations.BookOperations.Read
 {

@@ -1,7 +1,6 @@
-﻿using BookstoreAppWebAPI.Operations.BookOperations.Update;
-using FluentValidation;
+﻿using FluentValidation;
 
-namespace BookstoreAppWebAPI.BookOperations.Read
+namespace BookstoreAppWebAPI.Operations.BookOperations.Update
 {
     public class UpdateBookValidator : AbstractValidator<UpdateBookViewModel>
     {

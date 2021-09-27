@@ -8,9 +8,9 @@ namespace BookstoreAppWebAPI.Operations.BookOperations.Read
 {
     public class ReadBookCommands
     {
-        private readonly BookStoreDbContext _context;
+        private readonly IBookStoreDbContext _context;
 
-        public ReadBookCommands(BookStoreDbContext context)
+        public ReadBookCommands(IBookStoreDbContext context)
         {
             _context = context;
         }

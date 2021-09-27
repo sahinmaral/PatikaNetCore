@@ -6,9 +6,9 @@ namespace BookstoreAppWebAPI.Operations.BookOperations.Update
 {
     public class UpdateBookCommands
     {
-        private readonly BookStoreDbContext _context;
+        private readonly IBookStoreDbContext _context;
 
-        public UpdateBookCommands(BookStoreDbContext context)
+        public UpdateBookCommands(IBookStoreDbContext context)
         {
             _context = context;
         }

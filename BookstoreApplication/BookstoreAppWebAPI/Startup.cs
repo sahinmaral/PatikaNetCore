@@ -1,4 +1,5 @@
 using System.Reflection;
+using AutoMapper;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Middlewares;
 using Microsoft.AspNetCore.Builder;
@@ -30,8 +31,12 @@ namespace BookstoreAppWebAPI
             });
 
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
-
+            
+            //services.AddScoped<IBookStoreDbContext, BookStoreDbContext>();
+            
             services.AddDbContext<BookStoreDbContext>(options => options.UseInMemoryDatabase("BookStoreDb"));
+                
+                services.AddScoped<IBookStoreDbContext>(provider => provider.GetService<BookStoreDbContext>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
