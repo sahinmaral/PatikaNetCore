@@ -4,11 +4,11 @@ using BookstoreAppWebAPI.DbOperations;
 
 namespace BookstoreAppWebAPI.Operations.BookOperations.Update
 {
-    public class UpdateBookCommands
+    public class UpdateBookCommand
     {
         private readonly IBookStoreDbContext _context;
 
-        public UpdateBookCommands(IBookStoreDbContext context)
+        public UpdateBookCommand(IBookStoreDbContext context)
         {
             _context = context;
         }

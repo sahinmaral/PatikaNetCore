@@ -92,12 +92,18 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/5.0.9": {
+      "Microsoft.EntityFrameworkCore.Design/5.0.10": {
         "type": "package",
         "dependencies": {
           "Humanizer.Core": "2.8.26",
           "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.9"
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.10"
+        },
+        "compile": {
+          "lib/netstandard2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
         },
         "build": {
           "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props": {}
@@ -541,17 +547,18 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Design/5.0.9": {
-      "sha512": "eNf6vkQAdVkYMEADUrXTPtlgxw7EwkbU8jyaOEdz3J/3JFz2yzdVIwJg66RNMuoqDrktAG1bcR64YEys6DXVFw==",
+    "Microsoft.EntityFrameworkCore.Design/5.0.10": {
+      "sha512": "zazeCOcEuK7vsQPEtzNC7D1zaUBWxfjyhajypISNm2n9o1SBXEgVReVrn+Edj4SBy8ofoaXRfY01YYxbDwCMQQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.design/5.0.9",
+      "path": "microsoft.entityframeworkcore.design/5.0.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props",
+        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.5.0.10.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
@@ -1138,7 +1145,7 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 7.0.0",
       "FluentValidation >= 10.3.3",
       "Microsoft.EntityFrameworkCore >= 5.0.10",
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
+      "Microsoft.EntityFrameworkCore.Design >= 5.0.10",
       "Microsoft.EntityFrameworkCore.InMemory >= 5.0.9",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.9",
@@ -1151,7 +1158,7 @@
   },
   "packageFolders": {
     "C:\\Users\\sahin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1163,7 +1170,7 @@
       "outputPath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaNetCore\\BookstoreApplication\\BookstoreAppWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
       ],
       "configFilePaths": [
         "C:\\Users\\sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1213,7 +1220,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[5.0.9, )"
+            "version": "[5.0.10, )"
           },
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",

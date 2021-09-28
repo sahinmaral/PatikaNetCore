@@ -8,12 +8,12 @@ using BookstoreAppWebAPI.Operations.GenreOperations.Read;
 
 namespace BookstoreAppWebAPI.Operations.GenreOperations.Create
 {
-    public class CreateGenreCommands
+    public class CreateGenreCommand
     {
         private readonly BookStoreDbContext _context;
 
         public CreateGenreViewModel Model { get; set; }
-        public CreateGenreCommands(BookStoreDbContext context)
+        public CreateGenreCommand(BookStoreDbContext context)
         {
             _context = context;
         }

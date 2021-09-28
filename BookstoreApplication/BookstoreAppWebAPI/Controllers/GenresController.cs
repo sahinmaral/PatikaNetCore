@@ -27,7 +27,7 @@ namespace BookstoreAppWebAPI.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            var commands = new ReadGenreCommands(_context,_mapper);
+            var commands = new ReadGenreCommand(_context,_mapper);
 
             return Ok(commands.GetAllClearly());
         }
@@ -37,7 +37,7 @@ namespace BookstoreAppWebAPI.Controllers
         [HttpGet]
         public IActionResult GetById([FromRoute] int id)
         {
-            ReadGenreCommands commands = new ReadGenreCommands(_context, _mapper)
+            ReadGenreCommand commands = new ReadGenreCommand(_context, _mapper)
             {
                 Model = new ReadGenreViewModel() {Id = id}
             };
@@ -53,7 +53,7 @@ namespace BookstoreAppWebAPI.Controllers
         public IActionResult Add([FromBody] CreateGenreViewModel newGenre)
         {
 
-            CreateGenreCommands commands = new CreateGenreCommands(_context) {Model = newGenre};
+            CreateGenreCommand commands = new CreateGenreCommand(_context) {Model = newGenre};
 
             CreateGenreValidator validator = new CreateGenreValidator();
             validator.ValidateAndThrow(commands.Model);
@@ -69,7 +69,7 @@ namespace BookstoreAppWebAPI.Controllers
         public IActionResult Update([FromBody] UpdateGenreViewModel viewModel)
         {
 
-            UpdateGenreCommands commands = new UpdateGenreCommands(_context);
+            UpdateGenreCommand commands = new UpdateGenreCommand(_context);
 
             commands.Model = viewModel;
 
@@ -87,7 +87,7 @@ namespace BookstoreAppWebAPI.Controllers
         public IActionResult Delete(int id)
         {
 
-            DeleteGenreCommands commands = new DeleteGenreCommands(_context);
+            DeleteGenreCommand commands = new DeleteGenreCommand(_context);
             commands.Model = new DeleteGenreViewModel()
             {
                 Id = id

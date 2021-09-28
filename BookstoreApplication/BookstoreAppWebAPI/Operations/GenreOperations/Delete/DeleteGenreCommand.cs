@@ -4,11 +4,11 @@ using BookstoreAppWebAPI.DbOperations;
 
 namespace BookstoreAppWebAPI.Operations.GenreOperations.Delete
 {
-    public class DeleteGenreCommands
+    public class DeleteGenreCommand
     {
         private readonly BookStoreDbContext _context;
 
-        public DeleteGenreCommands(BookStoreDbContext context)
+        public DeleteGenreCommand(BookStoreDbContext context)
         {
             _context = context;
         }
@@ -30,10 +30,7 @@ namespace BookstoreAppWebAPI.Operations.GenreOperations.Delete
     public class DeleteGenreViewModel
     {
         public int Id { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
-        public int GenreId { get; set; }
-        public int WriterId { get; set; }
-        public DateTime PublishDate { get; set; }
+        public string Name { get; set; }
+        public bool IsActive { get; set; }
     }
 }

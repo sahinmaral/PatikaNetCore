@@ -6,12 +6,12 @@ using BookstoreAppWebAPI.Entities;
 
 namespace BookstoreAppWebAPI.Operations.BookOperations.Create
 {
-    public class CreateBookCommands
+    public class CreateBookCommand
     {
         private readonly IBookStoreDbContext _context;
         private readonly IMapper _mapper;
 
-        public CreateBookCommands(IBookStoreDbContext context, IMapper mapper)
+        public CreateBookCommand(IBookStoreDbContext context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;

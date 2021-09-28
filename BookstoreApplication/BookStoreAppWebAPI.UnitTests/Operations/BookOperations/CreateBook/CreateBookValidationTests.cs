@@ -5,7 +5,7 @@ using FluentAssertions;
 using FluentValidation;
 using Xunit;
 
-namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.CreateBookCommands
+namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.CreateBook
 {
     public class CreateBookValidationTests
     {

@@ -1,6 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=85937f5b_002D9c53_002D4405_002Dbe10_002D703df3ae9ebf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5610d676_002D46d1_002D4a89_002D9115_002Dc0b45012e43b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhenIdWasNullAtGetBookByBookId_ArgumentNullException_ShouldBeThrew" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::14126D93-66F1-48CC-B3AF-E856D90A43F2::.NETCoreApp,Version=v3.1::BookStoreAppWebAPI.UnitTests.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14126D93-66F1-48CC-B3AF-E856D90A43F2::.NETCoreApp,Version=v3.1::BookStoreAppWebAPI.UnitTests.Operations.BookOperations.ReadBook.ReadBookCommandTests.WhenIdWasNullAtGetBookByBookId_ArgumentNullException_ShouldBeThrew&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14126D93-66F1-48CC-B3AF-E856D90A43F2::.NETCoreApp,Version=v3.1::BookStoreAppWebAPI.UnitTests.Operations.BookOperations.ReadBook.ReadBookCommandTests.WhenIdWasNullAtGetBookWithDetailsByBookId_ArgumentNullException_ShouldBeThrew&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

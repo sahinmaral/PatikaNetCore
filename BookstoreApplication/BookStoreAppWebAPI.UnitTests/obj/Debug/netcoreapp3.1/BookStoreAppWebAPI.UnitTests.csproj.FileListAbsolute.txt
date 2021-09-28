@@ -132,4 +132,4 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookStoreAppWebAPI.UnitTests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookStoreAppWebAPI.UnitTests\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookStoreAppWebAPI.UnitTests\bin\Debug\netcoreapp3.1\BookstoreAppWebAPI.pdb
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookStoreAppWebAPI.UnitTests\obj\Debug\netcoreapp3.1\BookStoreAppWebAPI.UnitTests.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookStoreAppWebAPI.UnitTests\obj\Debug\netcoreapp3.1\BookStoreAppWebAPI.UnitTests.csproj.AssemblyReference.cache

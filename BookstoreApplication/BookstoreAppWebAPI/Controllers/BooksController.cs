@@ -27,7 +27,7 @@ namespace BookstoreAppWebAPI.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            ReadBookCommands commands = new ReadBookCommands(_context);
+            ReadBookCommand commands = new ReadBookCommand(_context,_mapper);
 
             return Ok(commands.GetBooksWithDetails());
         }
@@ -37,7 +37,7 @@ namespace BookstoreAppWebAPI.Controllers
         [HttpGet]
         public IActionResult GetById([FromRoute] int id)
         {
-            ReadBookCommands commands = new ReadBookCommands(_context);
+            ReadBookCommand commands = new ReadBookCommand(_context,_mapper);
             commands.Model = new ReadBookViewModel
             {
                 Id = id
@@ -54,7 +54,7 @@ namespace BookstoreAppWebAPI.Controllers
         public IActionResult Add([FromBody] CreateBookViewModel newBook)
         {
 
-            CreateBookCommands commands = new CreateBookCommands(_context, _mapper);
+            CreateBookCommand commands = new CreateBookCommand(_context, _mapper);
             commands.Model = newBook;
 
             CreateBookValidator validator = new CreateBookValidator();
@@ -71,7 +71,7 @@ namespace BookstoreAppWebAPI.Controllers
         public IActionResult Update([FromBody] UpdateBookViewModel viewModel)
         {
 
-            UpdateBookCommands commands = new UpdateBookCommands(_context)
+            UpdateBookCommand commands = new UpdateBookCommand(_context)
             {
                 Model = viewModel
             };
@@ -92,7 +92,7 @@ namespace BookstoreAppWebAPI.Controllers
         public IActionResult Delete(int id)
         {
 
-            DeleteBookCommands commands = new DeleteBookCommands(_context)
+            DeleteBookCommand commands = new DeleteBookCommand(_context)
             {
                 Model = new DeleteBookViewModel
                 {

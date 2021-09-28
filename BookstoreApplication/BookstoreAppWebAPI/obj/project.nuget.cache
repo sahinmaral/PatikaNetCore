@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4qR1zk1ZkfB6KWlnGY5UoQgqW2vEyC6KYqrKHAp0VyRhw02eSTqHJafGwlsNlKaCC/gYsx65b8f6GQ3mBiy2Rg==",
+  "dgSpecHash": "M7cjgdCsuq4xs7sNLRsIx6ikzZ30NQmxkNBzrLTKQWFJNEM6bJHIKhrQwUi3gtdhc7NS6DBRJhkYRZoGbY6UUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaNetCore\\BookstoreApplication\\BookstoreAppWebAPI\\BookstoreAppWebAPI.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,7 @@
     "C:\\Users\\sahin\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\sahin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "C:\\Users\\sahin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.10\\microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
-    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.9\\microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.10\\microsoft.entityframeworkcore.design.5.0.10.nupkg.sha512",
     "C:\\Users\\sahin\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.9\\microsoft.entityframeworkcore.inmemory.5.0.9.nupkg.sha512",
     "C:\\Users\\sahin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.10\\microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
     "C:\\Users\\sahin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.9\\microsoft.entityframeworkcore.tools.5.0.9.nupkg.sha512",

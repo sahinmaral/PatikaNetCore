@@ -163,4 +163,5 @@ C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppW
 C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.CopyComplete
 C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.genruntimeconfig.cache
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.AssemblyReference.cache

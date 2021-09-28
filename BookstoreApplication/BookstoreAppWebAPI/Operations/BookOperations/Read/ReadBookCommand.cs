@@ -1,18 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using AutoMapper;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
+using FluentValidation.Results;
 
 namespace BookstoreAppWebAPI.Operations.BookOperations.Read
 {
-    public class ReadBookCommands
+    public class ReadBookCommand
     {
         private readonly IBookStoreDbContext _context;
-
-        public ReadBookCommands(IBookStoreDbContext context)
+        private readonly IMapper _mapper;
+        public ReadBookCommand(IBookStoreDbContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         public ReadBookViewModel Model { get; set; }
@@ -35,18 +38,44 @@ namespace BookstoreAppWebAPI.Operations.BookOperations.Read
             return books.ToList();
         }
 
-        public List<Book> GetBooks()
+        public List<ReadBookViewModel> GetBooks()
         {
-            return _context.Books.ToList();
+            var books = _context.Books.ToList();
+
+            List<ReadBookViewModel> models = new List<ReadBookViewModel>();
+
+            models = _mapper.Map(books, models);
+
+            return models;
         }
 
-        public Book GetBookByBookId()
+        public ReadBookViewModel GetBookByBookId()
         {
-            return _context.Books.Single(x => x.Id == Model.Id);
+            ReadBookValidator validator = new ReadBookValidator();
+            ValidationResult result =  validator.Validate(Model);
+
+            if (!result.IsValid)
+            {
+                throw new NullReferenceException("Id vermeniz gerekiyor");
+            }
+                
+            var searchedBook =  _context.Books.Single(x => x.Id == Model.Id);
+
+             Model = _mapper.Map(searchedBook, Model);
+
+             return Model;
         }
 
         public ReadBookViewModel GetBookWithDetailsByBookId()
         {
+            ReadBookValidator validator = new ReadBookValidator();
+            ValidationResult result =  validator.Validate(Model);
+
+            if (!result.IsValid)
+            {
+                throw new NullReferenceException("Id vermeniz gerekiyor");
+            }
+            
             var searchedBook = from book in _context.Books
                 join writer in _context.Writers on book.WriterId equals writer.Id
                 join genre in _context.Genres on book.GenreId equals genre.Id

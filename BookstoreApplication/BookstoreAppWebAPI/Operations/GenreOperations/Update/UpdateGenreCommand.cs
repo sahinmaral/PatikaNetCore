@@ -4,10 +4,10 @@ using BookstoreAppWebAPI.DbOperations;
 
 namespace BookstoreAppWebAPI.Operations.GenreOperations.Update
 {
-    public class UpdateGenreCommands
+    public class UpdateGenreCommand
     {
         private readonly BookStoreDbContext _context;
-        public UpdateGenreCommands(BookStoreDbContext context)
+        public UpdateGenreCommand(BookStoreDbContext context)
         {
             _context = context;
         }

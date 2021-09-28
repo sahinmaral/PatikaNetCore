@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Linq;
 using AutoMapper;
-
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
 using BookstoreAppWebAPI.Operations.BookOperations.Create;
@@ -9,15 +8,15 @@ using BookStoreAppWebAPI.UnitTests.TestSetup;
 using FluentAssertions;
 using Xunit;
 
-namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.CreateBookCommands
+namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.CreateBook
 {
-    public class CreateBookCommandsTests : IClassFixture<CommonTextFixture>
+    public class CreateBookCommandTests : IClassFixture<CommonTextFixture>
     {
 
         private readonly BookStoreDbContext _context;
         private readonly IMapper _mapper;
 
-        public CreateBookCommandsTests(CommonTextFixture textFixture)
+        public CreateBookCommandTests(CommonTextFixture textFixture)
         {
             _mapper = textFixture.Mapper;
             _context = textFixture.Context;
@@ -35,7 +34,7 @@ namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.CreateBookComma
                 PublishDate = new DateTime(2000, 02, 11)
             };
 
-            BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommands commands = new BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommands(_context, _mapper);
+            BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommand commands = new BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommand(_context, _mapper);
 
             commands.Model = new CreateBookViewModel()
             {
@@ -58,8 +57,8 @@ namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.CreateBookComma
         [Fact]
         public void WhenValidInputsAreGiven_Book_ShouldBeCreated()
         {
-            BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommands commands =
-                new BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommands(_context, _mapper);
+            BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommand commands =
+                new BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommand(_context, _mapper);
 
             CreateBookViewModel model = new CreateBookViewModel()
             {

@@ -4,11 +4,11 @@ using BookstoreAppWebAPI.DbOperations;
 
 namespace BookstoreAppWebAPI.Operations.BookOperations.Delete
 {
-    public class DeleteBookCommands
+    public class DeleteBookCommand
     {
         private readonly IBookStoreDbContext _context;
 
-        public DeleteBookCommands(IBookStoreDbContext context)
+        public DeleteBookCommand(IBookStoreDbContext context)
         {
             _context = context;
         }

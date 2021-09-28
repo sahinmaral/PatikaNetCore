@@ -7334,7 +7334,7 @@
   },
   "packageFolders": {
     "C:\\Users\\sahin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet": {}
   },
   "project": {
     "version": "1.0.0",
@@ -7346,7 +7346,7 @@
       "outputPath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaNetCore\\BookstoreApplication\\BookStoreAppWebAPI.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
       ],
       "configFilePaths": [
         "C:\\Users\\sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7428,6 +7428,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
