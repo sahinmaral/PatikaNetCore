@@ -27,8 +27,4 @@
       <ProjectReference Include="..\BookstoreAppWebAPI\BookstoreAppWebAPI.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Operations\GenreOperations\ReadGenre" />
-    </ItemGroup>
-
 </Project>

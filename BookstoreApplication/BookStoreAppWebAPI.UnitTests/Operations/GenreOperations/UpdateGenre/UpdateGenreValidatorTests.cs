@@ -8,9 +8,9 @@ namespace BookStoreAppWebAPI.UnitTests.Operations.GenreOperations.UpdateGenre
     public class UpdateGenreValidatorTests
     {
         
-        [InlineData(1,"Test book")]
-        [InlineData(0,"Test book")]
-        [InlineData(-1,"Test book")]
+        [InlineData(1,"Test genre")]
+        [InlineData(0,"Test genre")]
+        [InlineData(-1,"Test genre")]
         [InlineData(1,null)]
         [InlineData(1,"")]
         [InlineData(1,"T")]

@@ -25,7 +25,7 @@ namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.UpdateBook
         }
 
         [Fact]
-        public void WhenInvalidIdWasGiven_InvalidOperationException_ShouldBeThrew()
+        public void WhenInvalidIdWasGiven_InvalidOperationException_ShouldBeThrown()
         {
             BookstoreAppWebAPI.Operations.BookOperations.Update.UpdateBookCommand command =
                 new BookstoreAppWebAPI.Operations.BookOperations.Update.UpdateBookCommand(_context)

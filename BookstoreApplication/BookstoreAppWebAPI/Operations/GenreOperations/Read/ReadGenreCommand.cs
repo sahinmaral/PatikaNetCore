@@ -37,13 +37,6 @@ namespace BookstoreAppWebAPI.Operations.GenreOperations.Read
 
         public ReadGenreViewModel GetGenreById()
         {
-            ReadGenreValidator validator = new ReadGenreValidator();
-            ValidationResult result = validator.Validate(Model);
-
-            if (!result.IsValid)
-            {
-                throw new ArgumentNullException("Id vermeniz gerekiyor");
-            }
             
             Genre searchedGenre =  _context.Genres.ToList().Find(x => x.Id == Model.Id);
 

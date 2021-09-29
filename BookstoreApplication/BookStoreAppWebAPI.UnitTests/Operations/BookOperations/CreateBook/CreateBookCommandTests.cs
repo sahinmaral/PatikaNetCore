@@ -23,7 +23,7 @@ namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.CreateBook
         }
 
         [Fact]
-        public void WhenAlreadyExistBootTitleGiven_InvalidExporationException_ShouldBeReturn()
+        public void WhenAlreadyExistBootTitleGiven_InvalidOperationException_ShouldBeThrown()
         {
             var book = new Book()
             {
@@ -34,15 +34,16 @@ namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.CreateBook
                 PublishDate = new DateTime(2000, 02, 11)
             };
 
-            BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommand commands = new BookstoreAppWebAPI.Operations.BookOperations.Create.CreateBookCommand(_context, _mapper);
-
-            commands.Model = new CreateBookViewModel()
+            CreateBookCommand commands = new CreateBookCommand(_context, _mapper)
             {
-                Title = book.Title,
-                Description = book.Description,
-                GenreId = book.GenreId,
-                PublishDate = book.PublishDate,
-                WriterId = book.WriterId
+                Model = new CreateBookViewModel()
+                {
+                    Title = book.Title,
+                    Description = book.Description,
+                    GenreId = book.GenreId,
+                    PublishDate = book.PublishDate,
+                    WriterId = book.WriterId
+                }
             };
 
             FluentActions.Invoking(() =>

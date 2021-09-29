@@ -25,7 +25,7 @@ namespace BookStoreAppWebAPI.UnitTests.Operations.BookOperations.DeleteBook
         }
 
         [Fact]
-        public void WhenInvalidIdWasGiven_InvalidOperationException_ShouldBeThrew()
+        public void WhenInvalidIdWasGiven_InvalidOperationException_ShouldBeThrown()
         {
             DeleteBookCommand command =
                 new DeleteBookCommand(_context)

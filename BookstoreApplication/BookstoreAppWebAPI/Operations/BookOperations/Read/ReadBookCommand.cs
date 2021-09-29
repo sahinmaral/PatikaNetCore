@@ -51,15 +51,9 @@ namespace BookstoreAppWebAPI.Operations.BookOperations.Read
 
         public ReadBookViewModel GetBookByBookId()
         {
-            ReadBookValidator validator = new ReadBookValidator();
-            ValidationResult result =  validator.Validate(Model);
-
-            if (!result.IsValid)
-            {
-                throw new NullReferenceException("Id vermeniz gerekiyor");
-            }
-                
+            
             var searchedBook =  _context.Books.Single(x => x.Id == Model.Id);
+            
 
              Model = _mapper.Map(searchedBook, Model);
 
@@ -68,14 +62,7 @@ namespace BookstoreAppWebAPI.Operations.BookOperations.Read
 
         public ReadBookViewModel GetBookWithDetailsByBookId()
         {
-            ReadBookValidator validator = new ReadBookValidator();
-            ValidationResult result =  validator.Validate(Model);
 
-            if (!result.IsValid)
-            {
-                throw new NullReferenceException("Id vermeniz gerekiyor");
-            }
-            
             var searchedBook = from book in _context.Books
                 join writer in _context.Writers on book.WriterId equals writer.Id
                 join genre in _context.Genres on book.GenreId equals genre.Id
