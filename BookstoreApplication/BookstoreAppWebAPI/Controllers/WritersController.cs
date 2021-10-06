@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 
 using BookstoreAppWebAPI.DbOperations;
+using BookstoreAppWebAPI.Operations.DbOperations;
 using BookstoreAppWebAPI.Operations.WriterOperations.Create;
 using BookstoreAppWebAPI.Operations.WriterOperations.Delete;
 using BookstoreAppWebAPI.Operations.WriterOperations.Read;

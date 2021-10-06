@@ -4,6 +4,7 @@ using AutoMapper;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
 using BookstoreAppWebAPI.Operations.BookOperations.Create;
+using BookstoreAppWebAPI.Operations.DbOperations;
 using BookstoreAppWebAPI.Operations.GenreOperations.Create;
 using BookStoreAppWebAPI.UnitTests.TestSetup;
 using FluentAssertions;

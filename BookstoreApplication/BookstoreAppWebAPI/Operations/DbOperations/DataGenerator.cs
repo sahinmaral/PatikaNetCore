@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Linq;
-using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BookstoreAppWebAPI
+namespace BookstoreAppWebAPI.Operations.DbOperations
 {
     public class DataGenerator
     {

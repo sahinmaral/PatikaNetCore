@@ -5,11 +5,13 @@ using BookstoreAppWebAPI.Operations.BookOperations.Delete;
 using BookstoreAppWebAPI.Operations.BookOperations.Read;
 using BookstoreAppWebAPI.Operations.BookOperations.Update;
 using FluentValidation;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using UpdateBookValidator = BookstoreAppWebAPI.Operations.BookOperations.Update.UpdateBookValidator;
 
 namespace BookstoreAppWebAPI.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class BooksController : ControllerBase

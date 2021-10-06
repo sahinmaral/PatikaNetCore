@@ -10,10 +10,10 @@ namespace BookstoreAppWebAPI.Operations.GenreOperations.Create
 {
     public class CreateGenreCommand
     {
-        private readonly BookStoreDbContext _context;
+        private readonly IBookStoreDbContext _context;
 
         public CreateGenreViewModel Model { get; set; }
-        public CreateGenreCommand(BookStoreDbContext context)
+        public CreateGenreCommand(IBookStoreDbContext context)
         {
             _context = context;
         }

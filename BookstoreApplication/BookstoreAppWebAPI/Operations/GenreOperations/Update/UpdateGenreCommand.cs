@@ -6,8 +6,8 @@ namespace BookstoreAppWebAPI.Operations.GenreOperations.Update
 {
     public class UpdateGenreCommand
     {
-        private readonly BookStoreDbContext _context;
-        public UpdateGenreCommand(BookStoreDbContext context)
+        private readonly IBookStoreDbContext _context;
+        public UpdateGenreCommand(IBookStoreDbContext context)
         {
             _context = context;
         }

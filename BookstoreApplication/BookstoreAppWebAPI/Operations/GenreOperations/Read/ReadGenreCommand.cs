@@ -10,12 +10,12 @@ namespace BookstoreAppWebAPI.Operations.GenreOperations.Read
 {
     public class ReadGenreCommand
     {
-        private readonly BookStoreDbContext _context;
+        private readonly IBookStoreDbContext _context;
         private readonly IMapper _mapper;
 
         public ReadGenreViewModel Model { get; set; }
 
-        public ReadGenreCommand(BookStoreDbContext context, IMapper mapper)
+        public ReadGenreCommand(IBookStoreDbContext context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;

@@ -2,6 +2,7 @@
 using AutoMapper;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Operations.BookOperations.Read;
+using BookstoreAppWebAPI.Operations.DbOperations;
 using BookStoreAppWebAPI.UnitTests.TestSetup;
 using FluentAssertions;
 using Xunit;

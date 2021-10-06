@@ -5,7 +5,7 @@ using AutoMapper;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
 using BookstoreAppWebAPI.Operations.BookOperations.Update;
-
+using BookstoreAppWebAPI.Operations.DbOperations;
 using BookStoreAppWebAPI.UnitTests.TestSetup;
 
 using FluentAssertions;

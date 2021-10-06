@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
+using BookstoreAppWebAPI.Operations.DbOperations;
 
 namespace BookStoreAppWebAPI.UnitTests.TestSetup
 {

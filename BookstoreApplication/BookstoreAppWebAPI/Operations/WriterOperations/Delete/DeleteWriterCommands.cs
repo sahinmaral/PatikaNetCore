@@ -2,6 +2,7 @@
 using System.Linq;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
+using BookstoreAppWebAPI.Operations.DbOperations;
 
 namespace BookstoreAppWebAPI.Operations.WriterOperations.Delete
 {

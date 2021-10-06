@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using AutoMapper;
 using BookstoreAppWebAPI.DbOperations;
+using BookstoreAppWebAPI.Operations.DbOperations;
 using BookstoreAppWebAPI.Operations.GenreOperations.Create;
 using BookstoreAppWebAPI.Operations.GenreOperations.Delete;
 using BookstoreAppWebAPI.Operations.GenreOperations.Read;

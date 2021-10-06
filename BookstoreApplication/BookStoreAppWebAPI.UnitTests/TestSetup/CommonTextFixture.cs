@@ -2,6 +2,7 @@
 using AutoMapper;
 using BookstoreAppWebAPI.Common;
 using BookstoreAppWebAPI.DbOperations;
+using BookstoreAppWebAPI.Operations.DbOperations;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookStoreAppWebAPI.UnitTests.TestSetup

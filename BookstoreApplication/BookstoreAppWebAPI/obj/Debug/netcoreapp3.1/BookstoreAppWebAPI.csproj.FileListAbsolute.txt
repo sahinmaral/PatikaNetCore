@@ -164,4 +164,11 @@ C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppW
 C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.CopyComplete
 C:\Users\sahin\OneDrive\Desktop\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.genruntimeconfig.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaNetCore\BookstoreApplication\BookstoreAppWebAPI\obj\Debug\netcoreapp3.1\BookstoreAppWebAPI.csprojAssemblyReference.cache

@@ -4,6 +4,7 @@ using System.Linq;
 using AutoMapper;
 using BookstoreAppWebAPI.DbOperations;
 using BookstoreAppWebAPI.Entities;
+using BookstoreAppWebAPI.Operations.DbOperations;
 
 namespace BookstoreAppWebAPI.Operations.WriterOperations.Read
 {
